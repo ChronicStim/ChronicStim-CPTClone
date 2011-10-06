@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTAxis.m \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTAxis.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTLayer.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTResponder.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTDefinitions.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTTextStyle.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTAxisLabel.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTAxisLabelGroup.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTAxisSet.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTAxisTitle.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTColor.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTExceptions.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTFill.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTGradient.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTGridLineGroup.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTGridLines.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTImage.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTLimitBand.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTLineCap.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTLineStyle.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTPlotRange.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTPlotSpace.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTPlotArea.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTGraph.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTBorderedLayer.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTAnnotationHostLayer.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTTextLayer.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTUtilities.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/CPTShadow.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/iPhoneOnly/CPTPlatformSpecificCategories.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/iPhoneOnly/CPTPlatformSpecificDefines.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/NSCoderExtensions.h \
+  /Users/development/Documents/Development/Repositories/ChronicPainTracker/ChronicStim-CPTClone/framework/Source/NSDecimalNumberExtensions.h
